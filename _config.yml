@@ -1,12 +1,11 @@
-title:   Elvis Liang
+title:   Karina Oborska-Balkowiec
 logo: "/images/Profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  Motivated and highly skilled analyst with over 4 years of expertise in data science, data engineering, analytics, product experimentation, insight enablement to influence strategic business decisions. Advanced hands-on experiences on using DAX, Power Query, SQL, Power Automate, Python and Gen AI workflows to process, transform and analyze both quantitative and qualitative data.
-  <br>
-  <br>
-  <a href="https://public.tableau.com/profile/shuchang.liang#!/">View My Tableau Work Samples</a>
-  <br>
+  Business-driven analyst transitioning into machine learning and data science, with 16+ years of experience in media, e-commerce, and strategic leadership. I combine a strong analytical mindset with hands-on skills in Python, SQL, data wrangling, and applied machine learning. My recent work includes a fraud detection project for a financial institution (data analysis phase), large-scale retail data modeling (Instacart), and big data processing with PySpark. I’m passionate about turning real-world business problems into data-driven solutions.
+  <br><br><br>
+  <a href="https://www.linkedin.com/in/karina-oborska-balkowiec/">View My Linkedin Profile</a>
+  <br><br><br>
   <a href="https://elvisliang.notion.site/Portfolio-Elvis-Liang-0d7092fc3fc34f50a878f88a380471f6?pvs=4">View My Notion Portfolios</a>
 theme: jekyll-theme-minimal   
   
