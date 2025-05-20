@@ -1,4 +1,4 @@
-title: <p style="font-size: 16px;">Karina Oborska</p>
+title: Karina Oborska
 logo: "/images/Profile_small_.png?raw=true"
 description: >
   <p style="font-size: 12px;">Business-driven analyst transitioning into machine learning and data science, with 16+ years of experience in media, e-commerce, and strategic leadership. I combine a strong analytical mindset with hands-on skills in Python, SQL, and applied machine learning. I’m passionate about turning real-world business challenges into data-driven solutions.
@@ -8,8 +8,6 @@ description: >
   👉 <a href="https://www.linkedin.com/in/karina-oborska-balkowiec/">LinkedIn</a>
   <br>
   🗂 <a href="https://elvisliang.notion.site/Portfolio-Elvis-Liang-0d7092fc3fc34f50a878f88a380471f6?pvs=4">Notion Portfolio</a>
-  <br>
-  💻 <a href="https://github.com/karinablk">GitHub Projects</a></p>
 theme: jekyll-theme-minimal
   
  
