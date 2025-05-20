@@ -10,6 +10,6 @@ description: >
   🗂 <a href="https://elvisliang.notion.site/Portfolio-Elvis-Liang-0d7092fc3fc34f50a878f88a380471f6?pvs=4">Notion Portfolio</a>
   <br>
   💻 <a href="https://github.com/karinablk">GitHub Projects</a>
-remote_theme: zerostaticthemes/hilton 
+theme: jekyll-theme-minimal
   
  
