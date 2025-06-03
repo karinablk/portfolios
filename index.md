@@ -8,7 +8,8 @@
 - Engineered 20+ features across user, product, and time dimensions (e.g. reorder frequency, cart position, order timing) to enrich the model input.
 - Carefully designed features to avoid data leakage by respecting the chronological sequence of orders and excluding target-period information.
 - Achieved best performance with XGBoost, reaching a macro F1-score of 0.61, outperforming logistic regression, random forest, CatBoost, and a GRU deep learning model.
-<img src="images/German Credit Risk.png?raw=true"/>
+<img src="images/instacart_features.jpg?raw=true"/>
+<img src="images/instacart_shap.jpg?raw=true"/>
 
 [Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)](https://public.tableau.com/app/profile/shuchang.liang/viz/GoogleAnalyticDashboard-GoogleMerchandiseStore/Dashboard)
 - Worked with Google Merchandise Store, connected customer online behavior and conversion to sales and profitability, made recommendations with impact on business outcomes
