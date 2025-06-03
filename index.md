@@ -20,7 +20,7 @@
 - Compared coins with verified vs. unverified circulating supply and analyzed memecoins in relation to Bitcoin to identify patterns in perceived value and volatility.
 - Conducted exploratory analysis to compare market capitalization, volatility, volume, and performance metrics between memecoins and established coins.
 - Visualized key patterns using matplotlib and seaborn, revealing insights into price behavior, market concentration, and speculative dynamics in the crypto space.
-<img src="imageswebscraping_project.png?raw=true"/>
+<img src="images/webscraping_project.png?raw=true"/>
 
 ---
 
