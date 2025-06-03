@@ -21,7 +21,7 @@
 <img src="images/Google Analytics 1.png?raw=true"/>
 <img src="images/Google Analytic KPI.png?raw=true"/>
 
----
+**― — ― — ― — ― — ― — ― — ― — ― — ― — ― — ― — ― — ―**
 
 [Retail Analytics (Power BI, Python)](https://app.powerbi.com/view?r=eyJrIjoiMWNjN2QwOWEtZDIzNy00NWU1LWE1ZGItODg2MTAyZTkwNWFkIiwidCI6IjZmMGJiNzJmLTUzNzctNGRkZi05MzZhLWI2YzcyYmYyMWFlMiIsImMiOjF9)
 - The Adventure Works dataset analysis revealed that the most popular product categories are accessories, bikes, and clothing, generating a total of $23.6 million in revenue.
