@@ -16,10 +16,11 @@
 
 [Crypto Web Scraping & Analysis (Python)](https://github.com/karinablk/crypto-webscraping-project/tree/main)
 - Collected live data from CoinMarketCap using a combination of Selenium, BeautifulSoup, Requests, and the CMC API, focusing on memecoins and top cryptocurrencies.
-- Cleaned and transformed raw HTML data (1,500+ records, 15 features) using custom Python functions to handle inconsistencies, missing values, and data formatting.
+- Cleaned and transformed raw HTML data (1,500+ records, 15 features) from dynamic pages using custom Python functions to handle inconsistencies, missing values, and data formatting.
 - Compared coins with verified vs. unverified circulating supply and analyzed memecoins in relation to Bitcoin to identify patterns in perceived value and volatility.
 - Conducted exploratory analysis to compare market capitalization, volatility, volume, and performance metrics between memecoins and established coins.
 - Visualized key patterns using matplotlib and seaborn, revealing insights into price behavior, market concentration, and speculative dynamics in the crypto space.
+<p align="center"><strong>EDA – Price Trends & Market Capitalization by Supply Verification</strong></p>
 <img src="images/webscraping_project.png?raw=true"/>
 
 ---
