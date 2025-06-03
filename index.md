@@ -14,14 +14,13 @@
 
 ---
 
-[Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)](https://public.tableau.com/app/profile/shuchang.liang/viz/GoogleAnalyticDashboard-GoogleMerchandiseStore/Dashboard)
-- Worked with Google Merchandise Store, connected customer online behavior and conversion to sales and profitability, made recommendations with impact on business outcomes
-- Used Google Analytics, BigQuery and Data Studio to analyze data collected by JavaScript tags, measure effectiveness of marketing strategies, tell marketers what works and what doesn't
-- Determined the best digital marketing tactics to reach target audience, drive them through conversion funnel AIDA (awareness, interest, desire, action), and maximize traffic and conversions
-- Collaborated with marketers to create data-driven campaigns, measure, analyze and optimize campaign performance, gain proficiency in core digital marketing tactics including direct, display, organic search, paid search, referral, social
-- Applied Pareto principle (80/20 rule), focus on actionable head data, focus on SEO to get more free traffic, combine web data with customer and product data to find more insights, help organizations increase revenue, reduce costs, improve customer satisfaction and loyalty
-<img src="images/Google Analytics 1.png?raw=true"/>
-<img src="images/Google Analytic KPI.png?raw=true"/>
+[Crypto Web Scraping & Analysis (Python)](https://github.com/karinablk/crypto-webscraping-project/tree/main)
+- Collected live data from CoinMarketCap using a combination of Selenium, BeautifulSoup, Requests, and the CMC API, focusing on memecoins and top cryptocurrencies.
+- Cleaned and transformed raw HTML data (1,500+ records, 15 features) using custom Python functions to handle inconsistencies, missing values, and data formatting.
+- Compared coins with verified vs. unverified circulating supply and analyzed memecoins in relation to Bitcoin to identify patterns in perceived value and volatility.
+- Conducted exploratory analysis to compare market capitalization, volatility, volume, and performance metrics between memecoins and established coins.
+- Visualized key patterns using matplotlib and seaborn, revealing insights into price behavior, market concentration, and speculative dynamics in the crypto space.
+<img src="imageswebscraping_project.png?raw=true"/>
 
 ---
 
