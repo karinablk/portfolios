@@ -12,6 +12,8 @@
 <img src="images/instacart_features.jpg?raw=true"/>
 <img src="images/instacart_shap_classes.png?raw=true"/>
 
+---
+
 [Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)](https://public.tableau.com/app/profile/shuchang.liang/viz/GoogleAnalyticDashboard-GoogleMerchandiseStore/Dashboard)
 - Worked with Google Merchandise Store, connected customer online behavior and conversion to sales and profitability, made recommendations with impact on business outcomes
 - Used Google Analytics, BigQuery and Data Studio to analyze data collected by JavaScript tags, measure effectiveness of marketing strategies, tell marketers what works and what doesn't
@@ -21,7 +23,7 @@
 <img src="images/Google Analytics 1.png?raw=true"/>
 <img src="images/Google Analytic KPI.png?raw=true"/>
 
-**― — ― — ― — ― — ― — ― — ― — ― — ― — ― — ― — ― — ―**
+---
 
 [Retail Analytics (Power BI, Python)](https://app.powerbi.com/view?r=eyJrIjoiMWNjN2QwOWEtZDIzNy00NWU1LWE1ZGItODg2MTAyZTkwNWFkIiwidCI6IjZmMGJiNzJmLTUzNzctNGRkZi05MzZhLWI2YzcyYmYyMWFlMiIsImMiOjF9)
 - The Adventure Works dataset analysis revealed that the most popular product categories are accessories, bikes, and clothing, generating a total of $23.6 million in revenue.
