@@ -8,7 +8,7 @@
 - Engineered 20+ features across user, product, and time dimensions (e.g. reorder frequency, cart position, order timing) to enrich the model input.
 - Carefully designed features to avoid data leakage by respecting the chronological sequence of orders and excluding target-period information.
 - Achieved best performance with XGBoost, reaching a macro F1-score of 0.61, outperforming logistic regression, random forest, CatBoost, and a GRU deep learning model.
-**EDA - Features Boxplots and SHAP Feature Importance**  
+<h3 align="center">EDA - Features Boxplots and SHAP Feature Importance</h3>
 <img src="images/instacart_features.jpg?raw=true"/>
 <img src="images/instacart_shap_classes.png?raw=true"/>
 
