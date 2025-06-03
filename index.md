@@ -25,19 +25,14 @@
 
 ---
 
-[Retail Analytics (Power BI, Python)](https://app.powerbi.com/view?r=eyJrIjoiMWNjN2QwOWEtZDIzNy00NWU1LWE1ZGItODg2MTAyZTkwNWFkIiwidCI6IjZmMGJiNzJmLTUzNzctNGRkZi05MzZhLWI2YzcyYmYyMWFlMiIsImMiOjF9)
-- The Adventure Works dataset analysis revealed that the most popular product categories are accessories, bikes, and clothing, generating a total of $23.6 million in revenue.
-- Sales from online channels have shown a significant increase over the past year, with a 15% growth rate and a total of $5.8 million in revenue generated through this channel.
-- The most profitable customer segments are from the Pacific region, generating a total of $6.2 million in revenue, followed by the South Atlantic and Mountain regions.
-- A key finding from the analysis is that the company's marketing campaign focusing on discounting products has not been effective, as the revenue generated from discounted products only accounts for 7% of the total revenue. It may be more effective to focus on other marketing strategies to increase sales.
-<img src="images/Retail Analytic.png?raw=true"/>
-<img src="images/Retail Analytic2.png?raw=true"/>
-<img src="images/Retail Analytic1.png?raw=true"/>
-
-
-
-
+[Big Data Sentiment Analysis (AWS, PySpark)](https://github.com/karinablk/big-data-sentiment-project)
+- Built a sentiment classification pipeline using AWS services (S3, Databricks, Athena, and QuickSight) and PySpark to analyze over 328K Elon Musk–related tweets.
+- Cleaned and structured tweet data using SQL and Spark transformations, addressing delimiter inconsistencies, missing values, and column merging issues.
+- Applied VADER sentiment analysis for initial labeling — fast and social-media-friendly, though contextually limited, especially in distinguishing neutral from positive tone.
+- Ensured chronological train-test split to avoid data leakage caused by repeated retweets or time-sensitive content.
+- Achieved 88% F1-score with logistic regression, with strongest performance on negative tweets (~90% accuracy) and most confusion between neutral and negative classes.
+- Built an interactive QuickSight dashboard to visualize model evaluation, sentiment distribution, and user behavior patterns by time and day.
+<img src="images/dashboard_eda_big_data.png?raw=true"/>
+<img src="images/dashboard_model_big_data.png?raw=true"/>
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
