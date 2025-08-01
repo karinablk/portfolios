@@ -36,3 +36,11 @@
 <img src="images/dashboard_model_big_data.png?raw=true"/>
 
 ---
+
+[SQL Business Analysis – Airbnb & Movie Rental Data (SQL, MySQL)]((https://github.com/karinablk/sql-analytics-projects))
+- Performed business analysis using SQL on two datasets: Airbnb guest data and the SAKILA movie rental database.
+- Wrote structured queries to explore guest booking behavior, rental activity, customer segmentation, and product performance.
+- Used joins, subqueries, aggregations, and window functions to solve real-world business questions.
+- Delivered actionable insights on pricing, occupancy trends, inventory planning, and customer behavior to support data-driven decision-making.
+
+---
