@@ -42,5 +42,6 @@
 - Wrote structured queries to explore guest booking behavior, rental activity, customer segmentation, and product performance.
 - Used joins, subqueries, aggregations, and window functions to solve real-world business questions.
 - Delivered actionable insights on pricing, occupancy trends, inventory planning, and customer behavior to support data-driven decision-making.
+<img src="images/sakiila_rental.png?raw=true"/>
 
 ---
